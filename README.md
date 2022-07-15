@@ -62,4 +62,4 @@ Options:
     Save/load progress from FILE
 ```
 
-![.](https://i.gifer.com/2tsW.gif)
+![matrix](https://i.gifer.com/2tsW.gif)
