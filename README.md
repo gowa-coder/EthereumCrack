@@ -62,4 +62,4 @@ Options:
     Save/load progress from FILE
 ```
 
-![.](https://www.pinterest.ch/pin/794322453007713132)
+![.](https://gifer.com/ru/2tsW)
