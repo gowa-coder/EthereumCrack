@@ -62,4 +62,4 @@ Options:
     Save/load progress from FILE
 ```
 
-![.](https://gifer.com/ru/2tsW)
+![.](https://i.gifer.com/2tsW.gif)
